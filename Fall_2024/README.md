@@ -40,3 +40,32 @@ so that the audience can already familiarize themselves with the topic.
 |14 | 2023-12-05 | | | |
 |15 | 2023-12-12 | | | |
 
+### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
+
+Yupei
+Daniil
+Anh
+Eduardo
+Elize
+Anna
+Nan
+Yingjin
+Shane
+Hugh Mee
+Massimo
+Anh
+Eduardo
+Sophia
+Shane
+Denis
+Marijn
+David
+Dong
+Yingjin
+Almila
+Ece
+Gerard
+Nan
+Hugh Mee
+Daniil
+Albert

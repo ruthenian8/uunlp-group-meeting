@@ -5,8 +5,7 @@ from collections import defaultdict, Counter
 PRESENT_TIMES = {'frequent': 2, 'non-frequent': 1}
 NAMES = {
     'frequent': ['eduardo', 'daniil', 'yingjin', 'hugh mee', 'nan', 'anh', 'shane'], 
-    # Yupei has presented once
-    'non-frequent': ['yupei', 'anna', 'albert', 'massimo', 'marijn', 'gerard', 'dong', 'ece', 'almila', 'sophia', 'david', 'kees?', 'denis']
+    'non-frequent': ['yupei', 'anna', 'albert', 'massimo', 'marijn', 'gerard', 'dong', 'ece', 'almila', 'sophia', 'david', 'denis', 'elize']
     }
 
 
