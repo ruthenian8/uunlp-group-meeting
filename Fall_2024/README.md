@@ -25,8 +25,8 @@ so that the audience can already familiarize themselves with the topic.
 
 | Week | Date | Presenter | Topic | Materials |
 | ---- | ----- | --------- | --------- | --------- |
-|1 | 2023-09-12 | | | |
-|2 | 2023-09-19 | | | |
+|1 | 2023-09-12 | TBD | Start-of-year research round | |
+|2 | 2023-09-19 | Yupei | Data pruning revisited | |
 |3 | 2023-09-26 | | | |
 |5 | 2023-10-03 | | | |
 |6 | 2023-10-10 | David van Kuijk | Challenges of Evaluating LLMs | |
@@ -42,30 +42,30 @@ so that the audience can already familiarize themselves with the topic.
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
 
-Yupei
-Daniil
-Anh
-Eduardo
-Elize
-Anna
-Nan
-Yingjin
-Shane
-Hugh Mee
-Massimo
-Anh
-Eduardo
-Sophia
-Shane
-Denis
-Marijn
-David
-Dong
-Yingjin
-Almila
-Ece
-Gerard
-Nan
-Hugh Mee
-Daniil
-Albert
+* Yupei
+* Daniil
+* Anh
+* Eduardo
+* Elize
+* Anna
+* Nan
+* Yingjin
+* Shane
+* Hugh Mee
+* Massimo
+* Anh
+* Eduardo
+* Sophia
+* Shane
+* Denis
+* Marijn
+* David
+* Dong
+* Yingjin
+* Almila
+* Ece
+* Gerard
+* Nan
+* Hugh Mee
+* Daniil
+* Albert
