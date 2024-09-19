@@ -26,7 +26,7 @@ so that the audience can already familiarize themselves with the topic.
 | Week | Date | Presenter | Topic | Materials |
 | ---- | ----- | --------- | --------- | --------- |
 |1 | 2023-09-12 | TBD | Start-of-year research round | |
-|2 | 2023-09-19 | Yupei | Data pruning revisited | |
+|2 | 2023-09-19 | Yupei | Data pruning revisited | [[Slides]](https://docs.google.com/presentation/d/1ibAtlVHhlPjDcOP9X91KmNR06mq0twAkxDKFvNBkzKQ/edit?usp=sharing) [[Draft]](https://www.overleaf.com/read/wjphkpnjsxbk#852c7a) |
 |3 | 2023-09-26 | Daniil | TBD | |
 |5 | 2023-10-03 | Canceled: [1st NLP@U seminar](https://www.uu.nl/en/events/nlpu-period-1-meeting) | - | - |
 |6 | 2023-10-10 | David van Kuijk | Challenges of Evaluating LLMs | |
