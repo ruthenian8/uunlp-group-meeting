@@ -27,13 +27,13 @@ so that the audience can already familiarize themselves with the topic.
 | ---- | ----- | --------- | --------- | --------- |
 |1 | 2023-09-12 | TBD | Start-of-year research round | |
 |2 | 2023-09-19 | Yupei | Data pruning revisited | [[Slides]](https://docs.google.com/presentation/d/1ibAtlVHhlPjDcOP9X91KmNR06mq0twAkxDKFvNBkzKQ/edit?usp=sharing) [[Draft]](https://www.overleaf.com/read/wjphkpnjsxbk#852c7a) |
-|3 | 2023-09-26 | Daniil | TBD | |
+|3 | 2023-09-26 | Daniil | TBA | |
 |5 | 2023-10-03 | Canceled: [1st NLP@U seminar](https://www.uu.nl/en/events/nlpu-period-1-meeting) | - | - |
 |6 | 2023-10-10 | David van Kuijk | Challenges of Evaluating LLMs | |
-|7 | 2023-10-17 | | | |
+|7 | 2023-10-17 | Anna | TBA | |
 |8 | 2023-10-24 | | | |
 |9 | 2023-10-31 | | | |
-|10 | 2023-11-07 | | | |
+|10 | 2023-11-07 |Anh | | |
 |11 | 2023-11-14 | | | |
 |12 | 2023-11-21 | | | |
 |13 | 2023-11-28 | | | |
@@ -44,10 +44,10 @@ so that the audience can already familiarize themselves with the topic.
 
 * Yupei
 * Daniil
-* Anh
+* _Anna_
 * Eduardo
 * Elize
-* Anna
+* _Anh_
 * Nan
 * Yingjin
 * Shane
