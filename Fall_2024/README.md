@@ -1,4 +1,4 @@
-# Utrecht University NLP Group Meeting: Fall 2023
+# Utrecht University NLP Group Meeting: Fall 2024
 
 Time: **11:00-12:15, Thursday**  
 
@@ -25,20 +25,20 @@ so that the audience can already familiarize themselves with the topic.
 
 | Week | Date | Presenter | Topic | Materials |
 | ---- | ----- | --------- | --------- | --------- |
-|1 | 2023-09-12 | - | Start-of-year research round | |
-|2 | 2023-09-19 | Yupei | Data pruning revisited | [[Slides]](https://docs.google.com/presentation/d/1ibAtlVHhlPjDcOP9X91KmNR06mq0twAkxDKFvNBkzKQ/edit?usp=sharing) [[Draft]](https://www.overleaf.com/read/wjphkpnjsxbk#852c7a) |
-|3 | 2023-09-26 | Daniil | Complex gold in RST | [[Slides]](https://drive.google.com/file/d/1F-F_GbBd1OUC4LD-SeEUudOsCwlItMOq/view?usp=sharing) |
-|5 | 2023-10-03 | Canceled: [1st NLP@U seminar](https://www.uu.nl/en/events/nlpu-period-1-meeting) | - | - |
-|6 | 2023-10-10 | David van Kuijk | Challenges of Evaluating LLMs | |
-|7 | 2023-10-17 | Anna | TBA | |
-|8 | 2023-10-24 | | | |
-|9 | 2023-10-31 | | | |
-|10 | 2023-11-07 |Anh | | |
-|11 | 2023-11-14 | | | |
-|12 | 2023-11-21 | | | |
-|13 | 2023-11-28 | | | |
-|14 | 2023-12-05 | | | |
-|15 | 2023-12-12 | | | |
+|1 | 2024-09-12 | - | Start-of-year research round | |
+|2 | 2024-09-19 | Yupei | Data pruning revisited | [[Slides]](https://docs.google.com/presentation/d/1ibAtlVHhlPjDcOP9X91KmNR06mq0twAkxDKFvNBkzKQ/edit?usp=sharing) [[Draft]](https://www.overleaf.com/read/wjphkpnjsxbk#852c7a) |
+|3 | 2024-09-26 | Daniil | Complex gold in RST | [[Slides]](https://drive.google.com/file/d/1F-F_GbBd1OUC4LD-SeEUudOsCwlItMOq/view?usp=sharing) |
+|5 | 2024-10-03 | Canceled: [1st NLP@U seminar](https://www.uu.nl/en/events/nlpu-period-1-meeting) | - | - |
+|6 | 2024-10-10 | David van Kuijk | Challenges of Evaluating LLMs | - |
+|7 | 2024-10-17 | Anna | EMNLP rehearsal | |
+|8 | 2024-10-24 | Eduardo | | |
+|9 | 2024-10-31 | | | |
+|10 | 2024-11-07 |Anh | | |
+|11 | 2024-11-14 | | | |
+|12 | 2024-11-21 | | | |
+|13 | 2024-11-28 | | | |
+|14 | 2024-12-05 | | | |
+|15 | 2024-12-12 | | | |
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
 
