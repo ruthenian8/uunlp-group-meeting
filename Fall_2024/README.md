@@ -42,8 +42,9 @@ so that the audience can already familiarize themselves with the topic.
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
 
-* Yupei
-* Daniil
+* ~~Yupei~~
+* ~~Daniil~~
+* ~~David~~
 * _Anna_
 * Eduardo
 * Elize
@@ -59,7 +60,6 @@ so that the audience can already familiarize themselves with the topic.
 * Shane
 * Denis
 * Marijn
-* David
 * Dong
 * Yingjin
 * Almila
